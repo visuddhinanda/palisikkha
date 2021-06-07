@@ -1,4 +1,7 @@
 # Table of contents
 
-* [introduction](README.md)
+* [introduction](introduction.md)
+* ပထမ
+	* [ပဌမာဝိဘတ်](pathama/p2.md)
 
+	
