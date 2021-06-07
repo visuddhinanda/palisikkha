@@ -2,6 +2,6 @@
 
 * [introduction](introduction.md)
 * ပထမ
-	* [ပဌမာဝိဘတ်](pathama/p2.md)
-
-	
+	* [ပဌမာဝိဘတ်နက](pathama/1.pathamavipatti.md)
+	* [ကုလျတ်, လိင်္ဂတ](pathama/2.kulyata_lingata.md)
+	* [ကတ္တားနှင့် ကြိယာ](pathama/3.katta_va_kyiya.md)
