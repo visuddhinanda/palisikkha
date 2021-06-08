@@ -7,3 +7,4 @@
 	* [ကတ္တားနှင့် ကြိယာ](pathama/3.katta_va_kyiya.md)
 	* [ဒုတိယာ ဝိဘတ်နက်](pathama/4.dutiya_vipatti.md)
 	* [တတိယာ ဝိဘတ်နက်](pathama/5.tatiya_vibhatti.md)
+	* [စတုတ္ထီ ဝိဘတ်နက်](pathama/6.catutthi_vibhatti.md)
