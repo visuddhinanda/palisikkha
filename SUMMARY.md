@@ -9,3 +9,6 @@
 	* [တတိယာ ဝိဘတ်နက်](pathama/5.tatiya_vibhatti.md)
 	* [စတုတ္ထီ ဝိဘတ်နက်](pathama/6.catutthi_vibhatti.md)
 	* [ပဉ္စမီ ဝိဘတ်နက်](pathama/7.pancami_vibhatti.md)
+	* [ဆဋ္ဌီ ဝိဘတ်နက်](pathama/8.chatthi_vibhatti.md)
+	* [စတုတ္ထီ+ဆဋ္ဌီတွဲ](pathama/9.catutthi_chatthitve.md)
+	* [သတ္တမီ ဝိဘတ်နက်](10.sattami_vibhatti.md)
