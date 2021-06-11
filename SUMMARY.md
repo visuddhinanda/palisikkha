@@ -15,7 +15,4 @@
 
 * [introduction](introduction.md)
 * ဒုတိယ
-* 	* [န+နု+နနု+ဝါကျများ](dutiya1.na_nu_nanu_vakya.md)
-* 
-* 
-*   
+* [န+နု+နနု+ဝါကျများ](dutiya1.na_nu_nanu_vakya.md)
