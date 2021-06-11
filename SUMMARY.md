@@ -14,7 +14,6 @@
 	* [သတ္တမီ ဝိဘတ်နက်](pathama/10.sattami_vibhatti.md)
 
 
-* [introduction](introduction.md)
 * ဒုတိယ
    *  [န+နု+နနု+ဝါကျများ](dutiya1.na_nu_nanu_vakya.md)
    *  
