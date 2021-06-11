@@ -12,3 +12,10 @@
 	* [ဆဋ္ဌီ ဝိဘတ်နက်](pathama/8.chatthi_vibhatti.md)
 	* [စတုတ္ထီ+ဆဋ္ဌီတွဲ](pathama/9.catutthi_chatthitve.md)
 	* [သတ္တမီ ဝိဘတ်နက်](pathama/10.sattami_vibhatti.md)
+
+* [introduction](introduction.md)
+* ဒုတိယ
+* 	* [န+နု+နနု+ဝါကျများ](dutiya1.na_nu_nanu_vakya.md)
+* 
+* 
+*   
