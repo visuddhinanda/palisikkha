@@ -15,5 +15,12 @@
 
 
 * ဒုတိယ
-   *  [န+နု+နနု+ဝါကျများ](dutiya1.na_nu_nanu_vakya.md)
-   *  
+   *  [န+နု+နနု+ဝါကျများ](dutiya/1.na_nu_nanu_vakya.md)
+   *  [အရတူ ဝိသေသန](dutiya/2.aratu_visesana.md)
+   *  [ဒုတိယာ ဝိသေသန](dutiya/3.tutiya_visesana.md)
+   *  [ဒုတိယာ ဝိဘတ်နက်](dutiya/4.tutiya_vibhanka.md)
+   *  [တတိယာ ဝိသေသန](dutiya/5.tatiya_visesana.md)
+   *  [အနက်ဒရိယ+အနာဒရ](dutiya/6.ankadariya_tnkadara.md)
+   *  [လက္ခဏ+လက္ချ](dutiya/7.lakkhana_lakkhaya.md)
+   *  [ကံဟောဝါကျ](dutiya/8.kanhovakya.md)
+   *  [အနက်ပေါင်းချုပ်](dutiya/9.tnkapaonkhuo.md)
