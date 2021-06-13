@@ -24,3 +24,11 @@
    *  [လက္ခဏ+လက္ချ](dutiya/7.lakkhana_lakkhaya.md)
    *  [ကံဟောဝါကျ](dutiya/8.kanhovakya.md)
    *  [အနက်ပေါင်းချုပ်](dutiya/9.tnkapaonkhuo.md)
+
+* တတိယ
+   *  [အနာဂတ် အာချတ်ဝိဘတ်](tatiya/1.ankagda_acytavibhta.md)
+   *  [အတိတ အာချက်တ်ဝိဘတ်](tatiya/2.atita.md)
+   *  [ပဉ္စမီ အာချာတ်ဝိဘတ်](tatiya/3.pancami.md)
+   *  [သတ္တမီ အာချာတ်ဝိဘတ်](tatiya/4.sattami.md)
+   *  [ကိတ်ကြိယာများ](tatiya/5.ktikyi.md)
+   *  [နိပါတ် ဥပသာရများ](tatiya/6.nipta.md)
